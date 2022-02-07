@@ -29,6 +29,21 @@ img{
     height: 545px;
     width: 1200px;
 }
+
+/*Button*/
+button{
+    color: #FFF;
+    background-color: green;
+    border: none;
+    height: 60px;
+    line-height: 30px;
+    padding: 0 20px;
+    text-transform: uppercase;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 30px;
+}
+
 .menu{
     list-style: none;
     border: 1px solid #c0c0c0;
