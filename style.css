@@ -1,0 +1,52 @@
+h1{
+    color: rgb(230, 176, 30);
+    font-size: 48px;
+    font-family: Verdana;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: overline;
+}
+
+.principal{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    min-width: 400px;/*Controla tamanho da caixa em reação ao tamanho da tela*/
+    min-height: 200px;/*Altura da caixa*/
+    max-height: 14px;
+}
+/*Box div bitcoin*/
+.introducao{
+    width: 200px;
+    height: 400px;
+    padding: 20px;/*Preencher*/
+    margin: 0;
+    border: 6px solid #000;
+}
+
+img{
+
+    height: 545px;
+    width: 1200px;
+}
+.menu{
+    list-style: none;
+    border: 1px solid #c0c0c0;
+    float: left;
+}
+
+.menu li{
+    position: relative;
+    float: left;
+    border-right: 1px solid #c0c0c0;
+}
+
+.menu li a{
+    color: #333; text-decoration:none ; padding: 5px 10px; display: block;}
+
+    .menu li a:hover{
+        background-color: #333;
+        color: #fff;
+        -moz-box-shadow: 0 3px 10px 0 #ccc;
+        -webkit-box-shadow: 0 3px 10px 0 #ccc;
+        text-shadow: 0px 0px 5px #fff;
+    }
