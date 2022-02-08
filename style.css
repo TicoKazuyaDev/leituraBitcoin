@@ -44,6 +44,11 @@ button{
     border-radius: 30px;
 }
 
+/*Modifica o botão com o cursor sobre o mesmo*/
+button:hover{
+    transform: scale(1.05);
+}
+
 .menu{
     list-style: none;
     border: 1px solid #c0c0c0;
