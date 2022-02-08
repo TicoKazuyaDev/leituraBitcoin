@@ -28,6 +28,7 @@ img{
 
     height: 545px;
     width: 1200px;
+    box-sizing: border-box;
 }
 
 /*Button*/
