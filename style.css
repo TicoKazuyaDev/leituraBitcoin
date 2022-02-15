@@ -14,6 +14,10 @@ h1{
     min-height: 200px;/*Altura da caixa*/
     max-height: 14px;
 }
+.imgBit{
+    margin-left: auto;
+    margin-right: auto;
+}
 /*Box div bitcoin*/
 .introducao{
     width: 200px;
@@ -22,18 +26,20 @@ h1{
     margin: 0;
     border: 6px solid #000;
     box-shadow: 10px 10px 10px 5px black;
+
 }
 
 .formulario{
 
 }
 
-img{
+/*.imagemPrincipal{
 
     height: 545px;
     width: 1200px;
     box-sizing: border-box;
-}
+    
+}*/
 
 /*Button*/
 button{
